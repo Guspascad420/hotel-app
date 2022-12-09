@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#hero {
+    background-image: url('../images/4f2392bf62b4418f517786e345112300 1.jpg');
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('./../fonts/Montserrat-Medium.ttf') format('truetype');
+}
+
+#login-image {
+    background-image: url('../images/Rectangle_124.png');
+}
+
+#welcome-text {
+    width: 27rem;
+}
+
+#inner-shadow {
+    box-shadow: 0 0 5px #000000;
+}
+
+#subscription {
+    background-image: url('../images/Rectangle_63.png');
+}
